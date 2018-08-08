@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CIA</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <header class="container">
+      <div class="row">
+        <h1 class="col-sm-4">CIA>
+        <nav class="col-sm-8 text-right">
+          <p>Treadstone</p>
+          <p>Blackbriar</p>
+          <p>Top Secret</p>
+          <p>Area 51</p>
+        </nav>
+      </div>
+    </header>
+    <section class="jumbotron">
+      <div class="container">
+        <h2>Central Intelligence</h2>
+        <h3>Espionage, Sabotage, and Assasination</h3>
+        <a class="btn btn-primary" href="#" role="button">Enlist</a>
+      </div>
+    </section>
+    <section class="container">
+      <div class="row">
+        <figure class="col-sm-6">
+          <p>Kennedy Assasination</p>
+          <img src="https://timedotcom.files.wordpress.com/2017/10/john-f-kennedy-papers-assassination.jpg"/>
+        </figure>
+        <figure class="col-sm-6">
+          <p>Men In Black</p>
+          <img src="http://www.clker.com/cliparts/3/m/F/D/C/G/mib-hi.png"/>
+        </figure>
+        <figure class="col-sm-6">
+          <p>Jason Bourne</p>
+          <img src="http://www.imfdb.org/images/thumb/1/16/Brnult-glock11.jpg/600px-Brnult-glock11.jpg"/>
+        </figure>
+        <figure class="col-sm-6">
+          <p>Russian Collusion</p>
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"/>
+        </figure>
+      </div>
+    </section>
+  </body>
+</html>
